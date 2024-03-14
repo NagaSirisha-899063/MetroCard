@@ -5,8 +5,6 @@
 * Maven
 
 # How to run the code
-We have provided scripts to execute the code. 
-
 Use `run.sh` if you are using Linux/Unix/macOS Operating system and `run.bat` if you are on Windows.Both the files run commands and print the corresponding output based on the input file `sample_input/input1.txt`.
 
 Internally both the scripts run the following commands 
